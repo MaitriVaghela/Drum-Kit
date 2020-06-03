@@ -1,5 +1,5 @@
 # Drum-Kit
-Drum kit is a Javascrit app in which number of keys in the app represent the different drums in a typical drum set. The app has buttons in which upon clicking, the sound of different drums will play. If you click the key assigned to different drum on keyboard, it will also play the drum.
+Drum kit is a Javascript app in which number of keys in the app represent the different drums in a typical drum set. The app has buttons in which upon clicking, the sound of different drums will play. If you click the key assigned to different drum on keyboard, it will also play the drum.
 
 ## Code Editor used
 Atom
