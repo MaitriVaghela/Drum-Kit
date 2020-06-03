@@ -4,7 +4,7 @@ Drum kit is a Javascript app in which number of keys in the app represent the di
 ## Code Editor used
 Atom
 
-## Screenshot of the game
+## Screenshot of the app
 <img src = "https://github.com/MaitriVaghela/Drum-Kit/blob/master/Drum%20kit.PNG" width="1000" height="500"/>
 
 ## Credits
